@@ -46,14 +46,10 @@ height: 500px;
     background-color: antiquewhite;
 }
 
-
-
-
-input, select, option, optgroup, textarea, button, 
-pre, code {
-    font-family: inherit;
-}
-
-ol, ul {
-    list-style: none;
+li {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60px;
+    background-color: bisque;
 }
