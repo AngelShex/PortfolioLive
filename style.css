@@ -5,7 +5,31 @@
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;  
 }
 
+@media screen and (max-width: 992px) { .header { width: 25px;
 
+}
+    .link-section { width: 25px;
+
+    }
+    body { width: 25px;
+
+    }
+    p { width: 25px;
+
+    }
+    h1, h4 { width: 25px;
+
+    }
+    .work { width: 25px;
+
+    }
+    li { width: 25px;
+
+    }
+    .box { width: 25px;
+
+    }
+}
 
 header {
     display: flex;
