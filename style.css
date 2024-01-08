@@ -5,7 +5,9 @@
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;  
 }
 
-@media screen and (max-width: 100px) { .header { width: 100px;
+@media screen and (max-width: 100px) { 
+    
+    .header { width: 100px;
 
 }
     .link-section { width: 100px;
