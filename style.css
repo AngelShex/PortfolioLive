@@ -58,12 +58,6 @@ img {
     padding: 10px;
 }
 
-.row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
 p {
     font-size: 15px;
     line-height: 200px;
