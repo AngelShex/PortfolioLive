@@ -2,12 +2,15 @@
 
 Title of this website is called Nathan D. Shelton the contents are my resume
 
-##
+## Usage 
 
-###
+My site that I have uploaded is my background information and different links to my previous work. The main purpose for this site is to be used for future employers or interested partys.
 
 
-####
+
+### Installation 
+
+
 
 
 ##### License 
