@@ -5,7 +5,7 @@
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;  
 }
 
-@media screen and (max-width: 90px) { 
+@media screen and (max-width: 130px) { 
     
     .header { width: 100px;
 
@@ -19,7 +19,7 @@
     p { width: 100px;
 
     }
-    h1, h4 { width: 100px;
+    h1, h4 { width: 50px;
 
     }
     .work { width: 100px;
